@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.appContainer {
+  width: 100vh;
+  height: 100vh;
+  padding: 30px;
+  background-color: rgb(14, 236, 14);
 }
