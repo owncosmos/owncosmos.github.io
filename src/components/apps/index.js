@@ -19,7 +19,7 @@ function Apps() {
             />
             <ItemApp 
               name="Music App" 
-              discription="Apple music на минималках :). UIKit + SwiftUI. Верстка - без использования storyboard. Применялась архитектура Clear Swift. Один из экранов сделан при помощьи Swift UI. Работа с анимацией и AVKit" 
+              discription="Apple music на минималках :). UIKit + SwiftUI. Верстка - без использования storyboard. Применялась архитектура Clear Swift. Один из экранов сделан при помощи Swift UI. Работа с анимацией и AVKit" 
               link="https://github.com/codebysergeyivanov/MusicApp" 
               type="tranging"
             />
