@@ -2,7 +2,9 @@ import './index.css'
 
 function Header() {
     return (
-        <div className="container"></div>
+        <>
+          <div className="header-container"></div>
+        </>
     );
 }
 

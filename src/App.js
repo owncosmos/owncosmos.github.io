@@ -1,10 +1,8 @@
-import Main from './main'
+import Main from './pages'
 
 function App() {
   return (
-    <div className="appContainer">
-      <Main/>
-    </div>
+    <Main/>
   );
 }
 
